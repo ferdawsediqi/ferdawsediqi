@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ferdaw Sediqi
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning JavaScript
+- 📫 You can reach me by this *sediqiferdaws72@gmail.com* e-mail address! 
